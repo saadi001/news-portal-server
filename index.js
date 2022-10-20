@@ -16,4 +16,4 @@ app.get('/categories', (req, res) =>{
 
 app.listen(port, () =>{
      console.log('News server is running in', port);
-})j
+})
